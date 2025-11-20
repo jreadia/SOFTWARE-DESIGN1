@@ -2,5 +2,8 @@ numpy<2
 scikit-learn
 radon
 matplotlib==3.7.3
+seaborn
+pandas
+tqdm
 # For CUDA 11.8 GPU support, install PyTorch with:
 # pip install torch==2.3.0+cu118 torchvision==0.18.0+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
